@@ -1,8 +1,8 @@
-# DevOps Handbook
+# DevOps ハンドブック
 
-This guide will help you understand our infrastructure stack and how we maintain our platforms. While this guide does not have exhaustive details for all operations, it could be used as a reference for your understanding of the systems.
+このガイドは、インフラストラクチャスタックとプラットフォームをどのように維持するかを理解するのに役立ちます。 このガイドで、すべての操作について詳しく説明しているわけではありませんが、システムを理解する上での参考になります。
 
-Let us know, if you have feedback or queries, and we will be happy to clarify.
+ご意見やご質問があれば、どうぞご連絡ください。喜んでご説明いたします。
 
 # Flight Manual - Code deployments
 
